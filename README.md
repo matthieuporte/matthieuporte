@@ -2,7 +2,7 @@
 
 I'm a front-end developper from France, currently studying at EPITA
 
-### 🛠 Ongoing 
+### 🏗️ Ongoing 
 
 Currently working on [Luminosité Eternelle](https://github.com/Taliayaya/Luminosite-Eternelle), my Semester 2 Project on 6 months where I have to create a multiplayer game on Unity in a group of 4. ✨
 
@@ -13,7 +13,7 @@ Currently working on [Luminosité Eternelle](https://github.com/Taliayaya/Lumino
 - Keeping improving my C# and eventually learn C
 - Learn Italian
 
-### 🎀 Last Project
+### 📌 Last Project
 
 Last finished project is a game of connect4, with a bot using Minmax
 
