@@ -1,6 +1,6 @@
 ## Matthiru's profile
 
-- 💻 second year computer science student
+- 💻 Second year computer science student
 - 🥷 Cybersecurity begginer
 - 💾 Casual 68k enjoyer
 - ⛰️ Nord theme > rosé pine
