@@ -1,7 +1,7 @@
 ## Matthiru's profile
 
 - 💻 Second year computer science student
-- 🥷 Cybersecurity begginer
+- 🥷 Cybersecurity beginner
 - 💾 Casual 68k enjoyer
 - ⛰️ Nord theme > rosé pine
 - 💯 Vim > Emacs
