@@ -6,6 +6,6 @@
 - ⛰️ Nord theme > rosé pine
 - 💯 Vim > Emacs
 
-Checkout [my website](https://matthieuporte.github.io) !
+Check out [my website](https://matthieuporte.github.io) !
 
 Also I climb and play the piano.
