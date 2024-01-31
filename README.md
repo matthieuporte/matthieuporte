@@ -2,7 +2,7 @@
 
 - 💻 Second year computer science student
 - 🇱🇻 Currently in Erasmus in Riga
-- 🥷 Cybersecurity beginner
+- 🔍 Cybersecurity beginner
 - 💾 Casual 68k enjoyer
 - ⛰️ Nord theme > rosé pine
 - 💯 Vim > Emacs
