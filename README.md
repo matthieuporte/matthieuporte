@@ -1,6 +1,5 @@
 ## Matthiru's profile
 
-- 💻 Second year computer science student
-- 🇱🇻 Currently in Erasmus in Riga
+- 💻 Third year computer science student at EPITA
 
 Also I climb and play the piano.
